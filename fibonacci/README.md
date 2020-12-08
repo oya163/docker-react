@@ -24,7 +24,7 @@
 ## How to run
     sudo docker-compose up --build
 
-Goto [browser](localhost:3050)
+Goto [browser](http://localhost:3050)
 
 Submit the index/number to get its fibonacci value.
 
